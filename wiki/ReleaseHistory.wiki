@@ -1,0 +1,8 @@
+#summary The summary of release changes for {{{android-serbian-ime}}}
+
+= Release History =
+
+Here's the summary of the releases so far.
+
+* 0.0.2.3: Corrects the Manifest for Android 2.2 (Froyo)
+* 0.0.2: The first release that does something useful
