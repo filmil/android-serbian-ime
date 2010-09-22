@@ -1,4 +1,5 @@
 #summary Instructions on how to install and use the Serbian Input Method.
+#labels Featured
 
 = Introduction =
 The application "Serbian Input Method (dev)" is an Android service that provides a soft onscreen keyboard for typing Serbian Cyrillic.
@@ -6,6 +7,7 @@ The application "Serbian Input Method (dev)" is an Android service that provides
 It is also for now my first foray into writing Android components.
 
 = How to Install =
+The input method application does not show in the application list when installed.  Instead, it provides a new Android "input method" (a new keyboard, if you will).  Follow the steps below to get activate this new input method.
 
   # *Download the application from the Android Market.* You will need to do this via your handset. Find the application called Serbian Input Method (dev) on the market and install it as usual.
   # *Show some love to your friendly Android developers*.  Check their applications out on the Market. Be sure to check the many other fine applications that exist for the Serbian language (keyword: Serbian on the Android Market). There are at least two other Serbian input methods, and you should give them a spin too and see which one suits you best.
