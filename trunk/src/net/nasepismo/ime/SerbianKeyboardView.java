@@ -22,6 +22,11 @@ import android.inputmethodservice.KeyboardView;
 import android.inputmethodservice.Keyboard.Key;
 import android.util.AttributeSet;
 
+/**
+ * Creates the keyboard view.
+ *
+ * @author filmil@gmail.com (Filip Miletic)
+ */
 public class SerbianKeyboardView extends KeyboardView {
 
   static final int KEYCODE_OPTIONS = -100;
